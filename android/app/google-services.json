@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078810915815",
+    "project_id": "book-app-aa448",
+    "storage_bucket": "book-app-aa448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078810915815:android:d5f9b27216e2b2e7548342",
+        "android_client_info": {
+          "package_name": "com.example.todo_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078810915815-8e1fubkihrmuitadqvp7emdth4fr2hak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHHlvz3kZo6rXHnUsJKFIuOcBeP1442w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078810915815-8e1fubkihrmuitadqvp7emdth4fr2hak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
